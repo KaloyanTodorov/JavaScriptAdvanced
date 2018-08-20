@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/2. JS-Advanced-Document-Object-Model-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/Resources/2. JS-Advanced-Document-Object-Model-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,31 +27,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="79" selection-start-line="79" selection-end-line="90" selection-end-column="1" />
+            <state relative-caret-position="1241">
+              <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="sections.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notification.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeConverter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeConverter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="18" column="71" lean-forward="true" selection-end-line="45" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -51,9 +77,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,7 +98,16 @@
       <list>
         <option value="$PROJECT_DIR$/Exercises1 - DOM/style.css" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/index.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" />
       </list>
     </option>
   </component>
@@ -118,6 +153,18 @@
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="05-Notification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="06-TimeConverter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -133,6 +180,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Homeworks\JavaScript Advanced\Exercises1 - DOM\Resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,18 +209,19 @@
       <option name="presentableId" value="Default" />
       <updated>1534258419351</updated>
       <workItem from="1534258422938" duration="18465000" />
-      <workItem from="1534454200593" duration="1972000" />
+      <workItem from="1534454200593" duration="9620000" />
+      <workItem from="1534504404107" duration="10821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20437000" />
+    <option name="totallyTimeSpent" value="38906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -190,18 +243,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -213,14 +266,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="44" lean-forward="true" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -234,9 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.core.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -248,17 +308,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="79" selection-start-line="79" selection-end-line="90" selection-end-column="1" />
+        <state relative-caret-position="1241">
+          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="18" column="71" lean-forward="true" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
