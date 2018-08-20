@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises2 - jQuery/Resources/5. JS-Advanced-jQuery-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises2 - jQuery/Resources/5. JS-Advanced-jQuery-Library.pptx" afterDir="false" />
+    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="Added 01-DOM Exercises 4th try">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/2. JS-Advanced-Document-Object-Model-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/Resources/2. JS-Advanced-Document-Object-Model-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,8 +29,21 @@
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+            <state relative-caret-position="132">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="61" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +51,8 @@
       <file leaf-file-name="sections.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            <state relative-caret-position="219">
+              <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -65,11 +75,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeConverter.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timeConverter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
               <caret line="18" column="71" selection-end-line="45" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subtract.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dropdown.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -90,6 +127,7 @@
       <find>items</find>
       <find>extra</find>
       <find>sum</find>
+      <find>extract</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,14 +140,14 @@
         <option value="$PROJECT_DIR$/Exercises1 - DOM/index.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" />
-        <option value="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js" />
-        <option value="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" />
-        <option value="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" />
+        <option value="$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html" />
       </list>
     </option>
   </component>
@@ -159,18 +197,12 @@
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
-              <item name="06-TimeConverter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,7 +250,7 @@
       <updated>1534258419351</updated>
       <workItem from="1534258422938" duration="18465000" />
       <workItem from="1534454200593" duration="9620000" />
-      <workItem from="1534504404107" duration="13507000" />
+      <workItem from="1534504404107" duration="15085000" />
     </task>
     <task id="LOCAL-00001" summary="Added 01-DOM Exercises">
       <created>1534748220383</created>
@@ -241,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534779601756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added 01-DOM Exercises 3rd try">
+      <created>1534783725270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534783725270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41592000" />
+    <option name="totallyTimeSpent" value="43170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,11 +300,11 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49966952" weight="0.32905984" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4990086" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49834764" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5009914" side_tool="true" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50165236" side_tool="true" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4990086" weight="0.32905984" />
@@ -307,7 +346,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added 01-DOM Exercises" />
     <MESSAGE value="Added 01-DOM Exercises 3rd try" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 01-DOM Exercises 3rd try" />
+    <MESSAGE value="Added 01-DOM Exercises 4th try" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 01-DOM Exercises 4th try" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
@@ -352,24 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -380,38 +402,10 @@
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -433,6 +427,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="18" column="71" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/03-Accordion/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="61" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>

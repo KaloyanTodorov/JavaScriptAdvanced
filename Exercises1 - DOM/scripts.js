@@ -27,7 +27,7 @@ function extractText() {
 function countdown(startTime) {
     let time = startTime;
     let box = document.getElementById('time');
-    let intervalID = setInterval(decrement, 1000);
+    setInterval(decrement, 1000);
     
     function decrement() {
         time--;
@@ -47,19 +47,19 @@ function colorize() {
     }
 }
 
-function extract(elementID) {
-    let content = document.getElementById(elementID).textContent;
-    let pattern = /\(([^)]+)\)/g;
-    let result = [];
-
-    let match = pattern.exec(content);
-    while (match) {
-        result.push(match[1]);
-        match = pattern.exec(content);
-    }
-
-    return result.join('; ');
-}
+// function extract(elementID) {
+//     let content = document.getElementById(elementID).textContent;
+//     let pattern = /\(([^)]+)\)/g;
+//     let result = [];
+//
+//     let match = pattern.exec(content);
+//     while (match) {
+//         result.push(match[1]);
+//         match = pattern.exec(content);
+//     }
+//
+//     return result.join('; ');
+// }
 
 function append() {
     let appendToID = document.getElementById('append');
@@ -85,7 +85,6 @@ function sum() {
         console.log(cell[cell.length - 1]);
         total += Number(cell[cell.length - 1].textContent);
     }
-    //console.log(total);
 
     document.getElementById('sum').textContent = total;
 }
