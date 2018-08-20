@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="Added 01-DOM Exercises 3rd try">
+    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" afterDir="false" />
@@ -11,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/05-Notification/notification.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises2 - jQuery/Resources/5. JS-Advanced-jQuery-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises2 - jQuery/Resources/5. JS-Advanced-jQuery-Library.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/2. JS-Advanced-Document-Object-Model-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/Resources/2. JS-Advanced-Document-Object-Model-Lab.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises1 - DOM/scripts.js" afterDir="false" />
@@ -58,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -67,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
-              <caret line="18" column="71" lean-forward="true" selection-end-line="45" selection-end-column="1" />
+              <caret line="18" column="71" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -157,6 +159,17 @@
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="06-TimeConverter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -170,6 +183,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -204,7 +218,7 @@
       <updated>1534258419351</updated>
       <workItem from="1534258422938" duration="18465000" />
       <workItem from="1534454200593" duration="9620000" />
-      <workItem from="1534504404107" duration="12097000" />
+      <workItem from="1534504404107" duration="13507000" />
     </task>
     <task id="LOCAL-00001" summary="Added 01-DOM Exercises">
       <created>1534748220383</created>
@@ -220,11 +234,27 @@
       <option name="project" value="LOCAL" />
       <updated>1534779142308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added 01-DOM Exercises 3rd try">
+      <created>1534779601756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534779601756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40182000" />
+    <option name="totallyTimeSpent" value="41592000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -395,14 +425,14 @@
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/06-TimeConverter/timeConverter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
-          <caret line="18" column="71" lean-forward="true" selection-end-line="45" selection-end-column="1" />
+          <caret line="18" column="71" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
