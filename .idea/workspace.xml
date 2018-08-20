@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="">
+    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="Added 01-DOM Exercises 3rd try">
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises1 - DOM/02-Fill-Dropdown/dropdown.html" afterDir="false" />
@@ -157,13 +157,7 @@
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
-              <item name="05-Notification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
-              <item name="06-TimeConverter" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,7 +173,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -210,7 +204,7 @@
       <updated>1534258419351</updated>
       <workItem from="1534258422938" duration="18465000" />
       <workItem from="1534454200593" duration="9620000" />
-      <workItem from="1534504404107" duration="11499000" />
+      <workItem from="1534504404107" duration="12097000" />
     </task>
     <task id="LOCAL-00001" summary="Added 01-DOM Exercises">
       <created>1534748220383</created>
@@ -219,24 +213,32 @@
       <option name="project" value="LOCAL" />
       <updated>1534748220383</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added 01-DOM Exercises">
+      <created>1534779142308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534779142308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39584000" />
+    <option name="totallyTimeSpent" value="40182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" weight="0.24983476" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49966952" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.4990086" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5009914" side_tool="true" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4990086" weight="0.32905984" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,7 +247,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -275,7 +276,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added 01-DOM Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 01-DOM Exercises" />
+    <MESSAGE value="Added 01-DOM Exercises 3rd try" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 01-DOM Exercises 3rd try" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
