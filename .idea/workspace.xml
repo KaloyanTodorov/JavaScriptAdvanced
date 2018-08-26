@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="Added 01-DOM Exercises 4th try" />
+    <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="Added 01-DOM Exercises 4th try">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaScript Advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaScript Advanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,17 +23,35 @@
       <file leaf-file-name="timer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="272">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="459">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="000-Test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-Test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="000-This-Test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-This-Test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -35,8 +59,17 @@
       <file leaf-file-name="stopwatch.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/07-Stopwatch/stopwatch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="272">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01-SumOfNimbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -47,8 +80,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -108,8 +141,16 @@
         <option value="$PROJECT_DIR$/Exercises2 - jQuery/01-Increment-Counter/increment-counter.js" />
         <option value="$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.html" />
         <option value="$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/000-This-Test.html" />
+        <option value="$PROJECT_DIR$/Exercises3 - UNIT Testing/01-SumOfNimbers.js" />
+        <option value="$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/bower" />
+    <bower.json value="" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -151,37 +192,19 @@
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises3 - UNIT Testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
-              <item name="00-Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises3 - UNIT Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
-              <item name="00-Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="07-Stopwatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Increment-Counter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Timer" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises3 - UNIT Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,14 +217,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercises3 - UNIT Testing" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Homeworks\JavaScript Advanced\Exercises3 - UNIT Testing\test" />
       <recent name="D:\Homeworks\JavaScript Advanced\Exercises2 - jQuery" />
       <recent name="D:\Homeworks\JavaScript Advanced\Exercises1 - DOM\00-Lab\07-Stopwatch" />
       <recent name="D:\Homeworks\JavaScript Advanced\Exercises1 - DOM\Resources" />
@@ -219,6 +244,44 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Mocha.Mocha Tests">
+    <configuration name="000-This-Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript Advanced/Exercises2 - jQuery/000-This-Test.html" />
+    <configuration name="Mocha Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/Exercises3 - UNIT Testing</test-directory>
+      <recursive>true</recursive>
+    </configuration>
+    <configuration name="Sum function tests" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js</test-file>
+      <test-names>
+        <name value="Sum function tests" />
+      </test-names>
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Mocha Tests" />
+      <item itemvalue="JavaScript Debug.000-This-Test.html" />
+      <item itemvalue="Mocha.Sum function tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Sum function tests" />
+        <item itemvalue="JavaScript Debug.000-This-Test.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -232,7 +295,10 @@
       <workItem from="1534258422938" duration="18465000" />
       <workItem from="1534454200593" duration="9620000" />
       <workItem from="1534504404107" duration="22978000" />
-      <workItem from="1534832494523" duration="30618000" />
+      <workItem from="1534832494523" duration="37984000" />
+      <workItem from="1535060485479" duration="3576000" />
+      <workItem from="1535242858742" duration="2874000" />
+      <workItem from="1535245804720" duration="1404000" />
     </task>
     <task id="LOCAL-00001" summary="Added 01-DOM Exercises">
       <created>1534748220383</created>
@@ -272,8 +338,40 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 11m 44s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 11m 52s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 12m 24s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 13m 28s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 14m 22s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 15m 42s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 15m 55s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 16m 49s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 17m 07s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2018.08.26 at 04h 17m 51s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81681000" />
+    <option name="totallyTimeSpent" value="96901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,37 +390,37 @@
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50165236" side_tool="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32905984" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4990086" weight="0.32905984" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3988604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49834764" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49834764" visible="true" weight="0.32905984" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49966952" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4990086" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50165236" side_tool="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49834764" visible="true" weight="0.32905984" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -341,20 +439,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added 00-Lab - DOM Exercise" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/03-Add-Delete-Items.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/04-Delete-From-Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="66" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/05-Events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -599,20 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/002-Search-in-List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/004-Link-Buttons/link-buttons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/004-Link-Buttons/link-buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -620,37 +690,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/003-Countries-Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" column="7" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/006-jQuery-Pluguns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/001-Join-Items.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-Test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/005-Selectable-Towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
@@ -662,6 +704,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/006-jQuery-Pluguns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/005-Selectable-Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="12" selection-start-column="6" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/003-Countries-Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="117" column="7" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/004-Link-Buttons/link-buttons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/002-Search-in-List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/01-Increment-Counter/increment-counter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -669,24 +746,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/07-Stopwatch/stopwatch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="272">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="459">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-This-Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/07-Stopwatch/stopwatch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
         </state>
       </provider>
     </entry>
