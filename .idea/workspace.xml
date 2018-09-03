@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1797258-5fbc-4e01-a47e-b095c9e75aba" name="Default" comment="Added 01-DOM Exercises 4th try">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaScript Advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaScript Advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises4 - Objects/00.TestingClasses.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Global Resources/6. JS-Advanced-jQuery-DOM-Events-Exercises.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,56 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="timer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.html">
+      <file leaf-file-name="book-generator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator/book-generator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/02-Timer/timer.js">
+      <file leaf-file-name="book-generator.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator/book-generator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="000-Test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-Test.html">
+      <file leaf-file-name="dom-search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/05-DOM-Search/dom-search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+            <state relative-caret-position="457">
+              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="000-This-Test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-This-Test.html">
+      <file leaf-file-name="dom-search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/05-DOM-Search/dom-search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stopwatch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/07-Stopwatch/stopwatch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01-SumOfNimbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+            <state relative-caret-position="-9">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="e#893#1274#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,8 +63,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -91,6 +74,9 @@
       <find>extra</find>
       <find>sum</find>
       <find>extract</find>
+      <find>true</find>
+      <find>search</find>
+      <find>rela</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercises1 - DOM/style.css" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/index.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.html" />
         <option value="$PROJECT_DIR$/Exercises1 - DOM/01-Subtraction/subtract.js" />
@@ -144,6 +129,13 @@
         <option value="$PROJECT_DIR$/Exercises2 - jQuery/000-This-Test.html" />
         <option value="$PROJECT_DIR$/Exercises3 - UNIT Testing/01-SumOfNimbers.js" />
         <option value="$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js" />
+        <option value="$PROJECT_DIR$/Exercises4 - Objects/00.TestingClasses.js" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator/book-generator.html" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/04-Form-Validation/index.html" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/04-Form-Validation/formValidation.js" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator/book-generator.js" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/05-DOM-Search/dom-search.html" />
+        <option value="$PROJECT_DIR$/Exercises2 - jQuery/05-DOM-Search/dom-search.js" />
       </list>
     </option>
   </component>
@@ -192,19 +184,41 @@
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises3 - UNIT Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises3 - UNIT Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises1 - DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="00-Lab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises3 - UNIT Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="03-Book-Generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="004-Link-Buttons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises2 - jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="05-DOM-Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises4 - Objects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,8 +258,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Mocha Tests">
+  <component name="RunManager" selected="Node.js.book-generator.js">
     <configuration name="000-This-Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript Advanced/Exercises2 - jQuery/000-This-Test.html" />
+    <configuration name="00.TestingClasses.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="00.TestingClasses.js" working-dir="$PROJECT_DIR$/Exercises4 - Objects" />
+    <configuration name="book-generator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="book-generator.js" working-dir="$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator" />
     <configuration name="Mocha Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -274,9 +290,13 @@
       <item itemvalue="Mocha.Mocha Tests" />
       <item itemvalue="JavaScript Debug.000-This-Test.html" />
       <item itemvalue="Mocha.Sum function tests" />
+      <item itemvalue="Node.js.00.TestingClasses.js" />
+      <item itemvalue="Node.js.book-generator.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.book-generator.js" />
+        <item itemvalue="Node.js.00.TestingClasses.js" />
         <item itemvalue="Mocha.Sum function tests" />
         <item itemvalue="JavaScript Debug.000-This-Test.html" />
       </list>
@@ -298,7 +318,9 @@
       <workItem from="1534832494523" duration="37984000" />
       <workItem from="1535060485479" duration="3576000" />
       <workItem from="1535242858742" duration="2874000" />
-      <workItem from="1535245804720" duration="1404000" />
+      <workItem from="1535245804720" duration="28618000" />
+      <workItem from="1535579080930" duration="845000" />
+      <workItem from="1535664933873" duration="24777000" />
     </task>
     <task id="LOCAL-00001" summary="Added 01-DOM Exercises">
       <created>1534748220383</created>
@@ -371,7 +393,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96901000" />
+    <option name="totallyTimeSpent" value="149737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,13 +406,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49966952" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50165236" side_tool="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32905984" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4990086" weight="0.32905984" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -408,19 +431,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49966952" weight="0.32905984" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3988604" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4990086" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50165236" side_tool="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4990086" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49834764" visible="true" weight="0.32905984" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -438,66 +461,12 @@
     <MESSAGE value="Added 00-Lab - DOM Exercise" />
     <option name="LAST_COMMIT_MESSAGE" value="Added 00-Lab - DOM Exercise" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/05-Events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/06-Add-Remove-Handlers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/07-Stopwatch/07-Stopwatch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/07-Stopwatch/stopwatch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="44" lean-forward="true" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/04-Sections/sections.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.core.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -582,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/01-List-of-items.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -690,59 +652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/001-Join-Items.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/01-Increment-Counter/increment-counter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/006-jQuery-Pluguns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/005-Selectable-Towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="12" selection-start-column="6" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/003-Countries-Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="117" column="7" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/004-Link-Buttons/link-buttons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/002-Search-in-List.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/01-Increment-Counter/increment-counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -762,14 +675,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-Test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
+        <state relative-caret-position="484">
           <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/000-This-Test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="331">
           <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
@@ -781,10 +694,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/001-Join-Items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/005-Selectable-Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/003-Countries-Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="117" column="7" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/006-jQuery-Pluguns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/01-Increment-Counter/increment-counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/01-Increment-Counter/increment-counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises3 - UNIT Testing/test/01-SumOfNimbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="484">
           <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises4 - Objects/00.TestingClasses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/04-Form-Validation/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/04-Form-Validation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises1 - DOM/00-Lab/01-List-of-items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/04-Form-Validation/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/004-Link-Buttons/link-buttons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator/book-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/03-Book-Generator/book-generator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/05-DOM-Search/dom-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises2 - jQuery/05-DOM-Search/dom-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#893#1274#0" />
+          </folding>
         </state>
       </provider>
     </entry>
