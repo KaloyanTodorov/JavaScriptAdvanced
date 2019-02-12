@@ -1,1 +1,3 @@
-Labs, Exercises, Homework from the May 2018 SoftUni Course for JavaScript Advanced
+Labs, Exercises, Homework from the SoftUni Course for JavaScript Advanced:
+Old Program === May 2018
+New Program === February 2019
