@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List of items</title>
+</head>
+<body>
+<h1>List of items</h1>
+<ul id="items">
+    <li>First item</li>
+    <li>Second item</li>
+</ul>
+<input type="text" id="new-item-text" />
+<input type="button" value="Add" onclick="addItem()">
+<script>
+    function addItem() {
+
+        let newText = document.getElementById('new-item-text').value;
+        if (newText !== '') {
+            let li = document.createElement('li');
+            li.appendChild(document.createTextNode(newText));
+
+            document.getElementById('items').appendChild(li);
+            document.getElementById('new-item-text').value = '';
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery Highlight Plugin</title>
+    <style>
+        .item {
+            border: 1px solid #DDD;
+        }
+        .big {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 5px;
+        }
+    </style>
+    <script src="jquery-3.3.1.js"></script>
+</head>
+<body>
+<span class="item">First</span>
+<span class="item">Second</span>
+<span class="item">Third</span>
+
+<script>
+    (function ($) {
+        $.fn.highlight = function (className) {
+            $(this).on('mouseover', function () {
+                $(this).addClass(className);
+            });
+
+            $(this).on('mouseout', function () {
+                $(this).removeClass(className);
+            });
+        }
+    })(jQuery); // here we can use ($) instead of (jQuery)
+
+    $('.item').highlight('big');
+
+</script>
+</body>
+</html>

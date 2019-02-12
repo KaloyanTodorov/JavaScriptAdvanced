@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Events testing</title>
+</head>
+<body>
+<div id="text">Some text here</div>
+<script>
+    let div = document.getElementById('text');
+    div.onmouseover = function (event) {
+        this.style.border = '3px solid green'; //this == event.target
+    };
+
+    div.onmouseout = function (event) {
+        this.style.border = ''; //this == event.target
+    };
+</script>
+</body>
+</html>
