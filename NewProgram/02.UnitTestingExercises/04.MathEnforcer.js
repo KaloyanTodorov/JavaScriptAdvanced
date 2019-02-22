@@ -5,7 +5,7 @@ let mathEnforcer = {
         }
         return num + 5;
     },
-    substractTen: function(num) {
+    subtractTen: function(num) {
         if(typeof(num) !== 'number') {
             return undefined;
         }
@@ -19,5 +19,7 @@ let mathEnforcer = {
         return num1 + num2;
     }
 };
+
+console.log(mathEnforcer.substractTen(13.3))
 
 module.exports = mathEnforcer;
