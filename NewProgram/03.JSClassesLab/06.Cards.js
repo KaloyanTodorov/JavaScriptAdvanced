@@ -13,8 +13,8 @@ const cards = (function() {
             return this._suit;
         }
 
-        set face(checkFace) {
-            switch(checkFace) {
+        set face(face) {
+            switch(face) {
                 case '2':
                 case '3':
                 case '4':
@@ -28,20 +28,20 @@ const cards = (function() {
                 case 'Q':
                 case 'K':
                 case 'A':
-                    this._face = checkFace;
+                    this._face = face;
                     break;
                 default:
                     throw new Error("Face is not correct");
             }
         }
 
-        set suit(checkSuit) {
-            switch(checkSuit) {
+        set suit(suit) {
+            switch(suit) {
                 case '♠':
                 case '♥':
                 case '♦':
                 case '♣':
-                    this._suit = checkSuit;
+                    this._suit = suit;
                     break;
                 default:
                     throw new Error("Suit is not correct!");
@@ -66,12 +66,12 @@ const Card = cards.Card;
 const Suits = cards.Suits;
 
 let card = new Card('Q', Suits.CLUBS);
-// console.log(card.face)
-// card.face = 'A';
-// card.suit = Suits.DIAMONDS;
-// console.log(card.suit);
-card._face = 'J'
+console.log(card.face)
+card.face = 'A';
+card.suit = Suits.DIAMONDS;
+console.log(card.suit);
 console.log(card.face);
+card.suit;
 
-// let card2 = new Card('2', 'as');
-// console.log(card2.face)
+let card2 = new Card('7', 'as');
+console.log(card2.suit)

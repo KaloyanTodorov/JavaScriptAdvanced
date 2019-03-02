@@ -39,3 +39,5 @@ class StringBuilder {
         return this._stringArray.join('');
   }
 }
+
+module.export = StringBuilder;
