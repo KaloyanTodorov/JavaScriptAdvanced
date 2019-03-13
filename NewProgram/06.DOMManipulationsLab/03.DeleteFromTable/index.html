@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>03. Delete from Table</title>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+        crossorigin="anonymous">
+    </script>
+</head>
+<body>
+    <table border="1" id="customers">
+        <tr><th>Name</th><th>Email</th></tr>
+        <tr><td>Eve</td><td>eve@gmail.com</td></tr>
+        <tr><td>Nick</td><td>nick@yahooo.com</td></tr>
+        <tr><td>Didi</td><td>didi@didi.net</td></tr>
+        <tr><td>Tedy</td><td>tedy@tedy.com</td></tr>
+    </table>
+    
+    Email: <input type="text" name="email" />
+    <button onclick="deleteByEmail()">Delete</button>
+    <div id="result" />
+    
+    <script>
+        function deleteByEmail() {
+            let $searchEmail = $('input[name="email"]');
+            let $searchInTable = $('#customers tr td');
+            let $result = $('#result');
+
+            let isResultFound = false;
+            $searchInTable.toArray().forEach((cell, index) => {
+                if(!isResultFound) {
+                    if(index % 2 === 1) {
+                        if($(cell).text().indexOf($searchEmail.val()) >= 0) {
+                            $(cell).parent().remove();
+                            $result.text('Deleted.');
+                            isResultFound = true;
+                        } else {
+                            $result.text('Not found.');
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -9,7 +9,9 @@ function attachEventsListeners() {
         ft  : 0.3048,
         in  : 0.0254,
     };
-    $('#convert').on('click', () => {
+
+    let $button = $('#convert');
+    $button.on('click', () => {
         let $inputDistance = $('#inputDistance');
         let $outputDistance = $('#outputDistance');
 

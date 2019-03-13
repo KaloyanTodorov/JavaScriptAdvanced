@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>04. Stopwatch</title>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+        crossorigin="anonymous">
+    </script>
+</head>
+<body>
+    <div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+
+    <button id="startBtn">Start</button>
+    <button id="stopBtn" disabled="true">Stop</button>
+
+    <script>
+        window.onload = function stopWatch() {
+            let $startBtn = $('#startBtn');
+            let $stopBtn = $('#stopBtn');
+            let $time = $('#time');
+            
+            $startBtn.on('click', startTimer);
+            $stopBtn.on('click', stopTimer);
+            
+            let timer;
+            let secondsPassed = 0;
+            
+            function startTimer() {
+                $time.text('00:00');
+                secondsPassed = 0;
+                
+                timer = setInterval(startTimer, 1000);
+                
+                $startBtn.attr('disabled', true);
+                $stopBtn.attr('disabled', false);
+                
+                function startTimer() {
+                    secondsPassed++;
+                    let seconds = ('0' + secondsPassed % 60).slice(-2);
+                    let minutes = ('0' + Math.floor(secondsPassed / 60)).slice(-2); 
+
+                    $time.text(`${minutes}:${seconds}`);
+                }
+            }
+
+            function stopTimer() {
+
+                secondsPassed = 0;
+
+                $startBtn.attr('disabled', false);
+                $stopBtn.attr('disabled', true);
+                clearInterval(timer);
+            }
+        }
+    </script>
+</body>
+</html>
