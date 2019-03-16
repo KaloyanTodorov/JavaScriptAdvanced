@@ -20,6 +20,6 @@ let mathEnforcer = {
     }
 };
 
-console.log(mathEnforcer.substractTen(13.3))
+console.log(mathEnforcer.subtractTen(13.3))
 
 module.exports = mathEnforcer;

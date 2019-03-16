@@ -54,6 +54,8 @@ class HolidayPackage {
     }
 }
 
+module.exports = HolidayPackage;
+
 
 let holidayPackage = new HolidayPackage('Italy', 'Summer');
 
